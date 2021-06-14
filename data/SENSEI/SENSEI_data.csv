@@ -1,5 +1,0 @@
-channel,e_min,e_max,n_events,known_bkgd,known_bkgd_err,exposure,efficiency
-1e,1.2,5,1311.7,649,47.5,19.93,0.069
-2e,5,8.8,5,,,19.93,0.105
-3e,8.8,12.6,0,,,27.82,0.325
-4e,12.6,16.4,0,,,27.82,0.327
