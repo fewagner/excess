@@ -1,5 +1,0 @@
-Figure 4 Notes
---------------
-
-- The black line shown in the figure is the reconstructed energy spectrum normalized to units of events/g/eV/day, and the bin center are stored in `recon_energies_low_drde.txt`. The columns in this file are: Energy [eV], dRdE [events/g/eV/day]
-- The dashed lines in the figure are the signal models that correspond to each DM mass and cross section chosen by the Optimum Interval code for an example simulation. Each dashed line has been save in a separate file named: `oi_drde_mass_{MASS}_cs_{CS}.txt', where MASS and CS correspond to the DM mass in MeV/c^2 and cross section in cm^2 that correspond to each curve. Note that these may not exactly match what is in the limit file, as the limit file is the result of taking the median of eight simulations. The columns in each of these files are: Energy [eV] and dRdE [events/g/eV/day]

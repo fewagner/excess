@@ -1,5 +1,0 @@
-Figure 1 Notes
---------------
-
-- In each data file for Figure 1, the x values are saved in seconds, while the figure plots in milliseconds.
-- The FPGA Trigger Threshold is a horizontal line at 11.77 ADC bins.

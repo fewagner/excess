@@ -1,5 +1,0 @@
-Figure 3 Notes
---------------
-
-- The columns in `cpd_limit.txt` are: DM Mass [GeV/c^2], DM-Nucleon Cross Section [cm^2]
-- Please note that `cpd_limit.txt` only includes the SuperCDMS-CPD limit. We direct the reader to the references for each of the other DM limits for the corresponding curves.
