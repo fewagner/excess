@@ -18,7 +18,7 @@ RICOCHET
 SENSEI  
 SuperCDMS  
 
-For *futher information*, please find the workshops presentations attached to the time table on the Indico page: https://indico.cern.ch/event/1013203/timetable/#20210615.detailed
+For *futher information*, please find the workshops presentations attached to the time table on the Indico page: https://indico.cern.ch/event/1013203/timetable/#20210615.detailed and a compact summary in the top level directory of the data repository.
 
 For *discussions about the data repository*, please use the issue tracker: https://github.com/fewagner/excess/issues
 
