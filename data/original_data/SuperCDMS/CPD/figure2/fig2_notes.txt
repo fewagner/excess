@@ -1,0 +1,7 @@
+Figure 2 Notes
+--------------
+
+- In `recon_energy_drde.txt`, this is the DM ROI spectrum for the reconstructed energy. The columns here are Energy [eV] and dRdE [events/g/eV/day]. These values correspond to the bin centers reconstructed energy spectrum in Figure 2.
+- In `e_etf_drde.txt`, this is the calibration dRdE for the intergral energy estimator E_ETF. The columns here are Energy [keV] and dRdE [events/g/eV/day]. These values correspond to the bin centers of the spectrum in the inset of Figure 2.
+- Both spectra have been corrected for the cut efficiencies of the chi-square and baseline cuts, but not the trigger efficiency (as this is contained within convolution with a 2D PDF)
+- For the vertical lines in the inset, these values are set at (in order of increasing energy in keV): 1.5, 4.161, 4.761, 5.9, 6.5
