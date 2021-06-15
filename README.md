@@ -6,7 +6,7 @@
 
 Multiple rare event search experiments observe an exponentially rising count rate at low energies. This phenomenon is yet unexplained and the comparision, description and discussion of the experimental observations is the objective of the EXCESS workshop (https://indico.cern.ch/event/1013203/). The following collaborations have provided data for the workshop and/or are represented within the advisory board (alphabetical list):
 
-CONNIE/vIOLETA  
+CONNIE/Skipper-CCD  
 CRESST  
 DAMIC  
 EDELWEISS  
@@ -41,12 +41,13 @@ Everything else in this repository is subject to the MIT copy-left license.
 
 ## Contact
 
-For questions about this repository or the workshop, please reach out to the chairs:
+For questions about this repository or the workshop, please reach out to the chairs or the general workshop info adress:
 
 Alexander Fuß, alexander.fuss(at)oeaw.ac.at  
 Felix Wagner, felix.wagner(at)oeaw.ac.at  
 Florian Reindl, forian.reindl(at)oeaw.ac.at  
 Margarita Kaznecheeva, margarita.kaznacheeva(at)tum.de  
+EXCESS workshop, excessworkshop(at)gmail.com
 
 ## Acknowledgements
 
@@ -56,7 +57,7 @@ Belina von Krosigk (SuperCDMS)
 Dan Baxter (DAMIC)  
 Federica Petricca (CRESST)  
 Guillaume Giroux (NEWS-G)  
-Guillermo Fernandez Moroni (CONNIE/vIOLETA)  
+Guillermo Fernandez Moroni (CONNIE/Skipper-CCD)  
 Jules Gascon (EDELWEISS)  
 Julien Billard (RICOCHET)  
 Kostas Nikolopoulos (NEWS-G)  
