@@ -4,49 +4,65 @@
 # Excess Workshop Data Repository
 ****
 
-Multiple rare event search experiments observe an exponentially rising count rate at low energies. This phenomenon is yet unexplained and the comparision, description and discussion of the experimental observations is the objective of the EXCESS workshop (https://indico.cern.ch/event/1013203/). The following collaborations have provided data for the workshop and are represented within the advisory board (alphabetical list):
+Multiple rare event search experiments observe an exponentially rising count rate at low energies. This phenomenon is yet unexplained and the comparision, description and discussion of the experimental observations is the objective of the EXCESS workshop (https://indico.cern.ch/event/1013203/). The following collaborations have provided data for the workshop and/or are represented within the advisory board (alphabetical list):
 
-CONNIE/vIOLETA
-CRESST
-DAMIC
-EDELWEISS
-MINER
-NEWS-G
-NUCLEUS
-PhyStat-DM
-RICOCHET
-SENSEI
-SuperCDMS
+CONNIE/vIOLETA  
+CRESST  
+DAMIC  
+EDELWEISS  
+MINER  
+NEWS-G  
+NUCLEUS  
+PhyStat-DM  
+RICOCHET  
+SENSEI  
+SuperCDMS  
 
-For futher information, please find the workshops presentations attached to the time table.
+For *futher information*, please find the workshops presentations attached to the time table on the Indico page: https://indico.cern.ch/event/1013203/timetable/#20210615.detailed
 
-Workshop homepage: https://indico.cern.ch/event/1013203/
+For *discussions about the data repository*, please use the issue tracker: https://github.com/fewagner/excess/issues
 
-Please use the issue tracker for discussions about the data repository: https://github.com/fewagner/excess/issues
-
-For scientific discussions, please reach out to the workshop team and ask for the corresponding Slack channel.
+For *scientific discussions*, please reach out to the workshop team and ask for the corresponding Slack channel.
 
 ## Usage
 
-TODO Load the notebook in Binder or clone the repository to your computer
+In the EnergySpectra notebook, you can find an interactive visualization of the measured energy spectra of the experiments. For using it, either clone the GitHub repository to your local machine, start it in an containerized web-environment with Binder (button on top of Readme) or view the static version directly in GitHub. Alternitively, you can also download the data of indivual experiments from the `data/` directory.
 
-You can always create a new branch and change or add features! If your changes might me useful for the other workshop participants as well, please create an issue in the issue tracker. An organizer will reach out to you.
+You can always create a new branch and change or add features! If your changes might be useful for the other workshop participants as well, please create an issue in the issue tracker and ask for a merge.
 
 Use this link to share the interactive online Notebook, using Binder:
 https://mybinder.org/v2/gh/fewagner/excess/HEAD
 
 ## License
 
-TODO CC BY 4.0
+All data within the `data/` directory is licensed with the CC BY 4.0 license. This means especially that the creators of the data (the corresponding collaboration) need to be acknowledged, wherever the data ist used. A set of suitable publications for this purpose is listed at the end of the EnergySpectra notebook.
 
-TODO MIT
+Everything else in this repository is subject to the MIT copy-left license.
 
 ## Contact
 
-TODO Contact
+For questions about this repository or the workshop, please reach out to the chairs:
+
+Alexander Fuß, alexander.fuss(at)oeaw.ac.at  
+Felix Wagner, felix.wagner(at)oeaw.ac.at  
+Florian Reindl, forian.reindl(at)oeaw.ac.at  
+Margarita Kaznecheeva, margarita.kaznacheeva(at)tum.de  
 
 ## Acknowledgements
 
-TODO Collaborations
+The EXCESS workshop, as well as this data repository, was a common effort of multiple communities. Representative for all contributions, we want to thank the advisory board members and their collaborations:
 
-TODO Advisory Board
+Belina von Krosigk (SuperCDMS)  
+Dan Baxter (DAMIC)  
+Federica Petricca (CRESST)  
+Guillaume Giroux (NEWS-G)  
+Guillermo Fernandez Moroni (CONNIE/vIOLETA)  
+Jules Gascon (EDELWEISS)  
+Julien Billard (RICOCHET)  
+Kostas Nikolopoulos (NEWS-G)  
+Marie-Cecile Piro (PhyStat DM)  
+Noah Kurinsky (SuperCDMS)  
+Raimund Strauss (NUCLEUS)  
+Rouven Essig (SENSEI)  
+Rupak Mahapatra (MINER)  
+Vasile Ghete (NUCLEUS)  
