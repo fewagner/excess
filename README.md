@@ -6,6 +6,7 @@
 
 Multiple rare event search experiments observe an exponentially rising count rate at low energies. This phenomenon is yet unexplained and the comparision, description and discussion of the experimental observations is the objective of the EXCESS workshop (https://indico.cern.ch/event/1013203/). The following collaborations have provided data for the workshop and/or are represented within the advisory board (alphabetical list):
 
+BULLKID
 CONNIE/Skipper-CCD  
 CRESST  
 DAMIC  
